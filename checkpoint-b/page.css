@@ -1,0 +1,15 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #fdfdfb;
+  color: #1a1a1a;
+}
+
+.stock-line {
+  padding: 0.5rem 0;
+  color: #1a1a1a;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
